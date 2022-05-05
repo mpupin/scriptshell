@@ -1,4 +1,5 @@
 #!/bin/bash
+#Extraction de clé et certificat
 fichier=$1
 motdepasse=$2
 if [ -e $fichier ]
